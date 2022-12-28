@@ -3,7 +3,8 @@ package demo;
 public class Hello {
 
 	public static void main(String[] args) {
-		System.out.println("Ã¹¹øÂ°");
+		System.out.println("first");
+		System.out.println("second");
 
 	}
 
